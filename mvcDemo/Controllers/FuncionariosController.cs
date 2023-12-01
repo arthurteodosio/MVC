@@ -12,8 +12,8 @@ namespace mvcDemo.Controllers
             funcionarios.Add(new Funcionario()
             {
                 Nome = "Arthur Sampaio",
-                Cargo = "Desempregado",
-                CargaHorária = 0
+                Cargo = "Aprendiz",
+                CargaHorária = 6
 
 
             });
@@ -21,7 +21,7 @@ namespace mvcDemo.Controllers
             funcionarios.Add(new Funcionario()
             {
                 Nome = "Anthony Faccioli",
-                Cargo = "Desenvolvedor",
+                Cargo = "Estágiario",
                 CargaHorária = 8
                 
             });
